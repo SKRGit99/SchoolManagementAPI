@@ -51,6 +51,7 @@ C:\Users\Sampat Kumar Rahul\source\repos\SchoolManagementAPI\SchoolManagementAPI
 C:\Users\Sampat Kumar Rahul\source\repos\SchoolManagementAPI\SchoolManagementAPI\obj\Debug\net10.0\SchoolManagementAPI.csproj.CoreCompileInputs.cache
 C:\Users\Sampat Kumar Rahul\source\repos\SchoolManagementAPI\SchoolManagementAPI\obj\Debug\net10.0\SchoolManagementAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Sampat Kumar Rahul\source\repos\SchoolManagementAPI\SchoolManagementAPI\obj\Debug\net10.0\SchoolManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sampat Kumar Rahul\source\repos\SchoolManagementAPI\SchoolManagementAPI\obj\Debug\net10.0\SchoolManagementAPI.sourcelink.json
 C:\Users\Sampat Kumar Rahul\source\repos\SchoolManagementAPI\SchoolManagementAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\Sampat Kumar Rahul\source\repos\SchoolManagementAPI\SchoolManagementAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\Sampat Kumar Rahul\source\repos\SchoolManagementAPI\SchoolManagementAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
